@@ -1,0 +1,130 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Anim Dependencies
+  m_EditorClassIdentifier: 
+  m_GroupName: Anim Dependencies
+  m_Data:
+    m_SerializedData: []
+  m_GUID: d42e2b9707fa64b439d5290c76369be1
+  m_SerializeEntries:
+  - m_GUID: 46d3ef83a1dcd3845b415d3d91a04337
+    m_Address: Eyes_Annoyed
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ea0360a5fdaf2ac40b8e71ac9294e667
+    m_Address: Eyes_Blink
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 1aeb3e8c01f5d534c9a72bbf181c3a63
+    m_Address: Eyes_Cry
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 622a6d2ad5070a340b85637ba4b93aaf
+    m_Address: Eyes_Dead
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de1d615e89514514d8c39a591ad539bb
+    m_Address: Eyes_Excited
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 3dffca6cea27af3488d99af5f763199b
+    m_Address: Eyes_Happy
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ad66aec4451124b46b099414b1ece55c
+    m_Address: Eyes_LookDown
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 87fc63539b7bc5e4289cfa980a739084
+    m_Address: Eyes_LookIn
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 157603e0cba4708498b2847449eaaf39
+    m_Address: Eyes_LookOut
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 0f75d70c5ac154f4da008ea9e6c933c0
+    m_Address: Eyes_LookUp
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: a0ba351f09d6d844db8bffc74a11490e
+    m_Address: Eyes_Rabid
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 5991a2af34401064aab845455aaa6a6d
+    m_Address: Eyes_Sad
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 106699c25c87b0d469a33ca0f4bb1222
+    m_Address: Eyes_Shrink
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b51c1043d37dcca49ab4b15434e67da0
+    m_Address: Eyes_Sleep
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 64dc3627784e421408921cf2a4f9bc38
+    m_Address: Eyes_Spin
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: d43226420668d044c975f0ecc5809df1
+    m_Address: Eyes_Squint
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: dd03e639ddb06de45b9b14f57ab98a11
+    m_Address: Eyes_Trauma
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 770167f42b8505c45b44deb16c90962d
+    m_Address: Sweat_L
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: de2e608923f1cf14796462d5ad873f5a
+    m_Address: Sweat_R
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 11588893e16df7b4691879be8fc930f7
+    m_Address: Teardrop_L
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: f98c513bd8b128d479b9c07a41033abf
+    m_Address: Teardrop_R
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3ee707f14051f4be883fb73219c7dda7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f41cedac2a1f94706be83928f34ad124, type: 2}
+    - {fileID: 11400000, guid: 8f0a40d296e9d403bb0c3e3e51fa7f29, type: 2}
